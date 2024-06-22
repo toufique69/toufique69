@@ -5,7 +5,7 @@
 - 🌱 Learning about applications of LLMs/ML models.
 - 💬 Ask me about Python, Generative AI, ML, NLP.
 - 👨‍💻 Personal Website: [https://sites.google.com/view/hasantoufique/](https://sites.google.com/view/hasantoufique/)
-- 📫 Eeach me: hasan.mdtoufique@gmail.com
+- 📫 Reach me: hasan.mdtoufique@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
