@@ -55,6 +55,15 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/L/langchain-logo-F2F6E119A7-seeklogo.com.png" alt="langchain" width="40" height="40"/>
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40"/>
+  </a>
+  <a href="https://ai.google/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Google.svg/800px-Google.svg.png" alt="google-palm" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="center">Thank you for visiting my portfolio!</h3>
