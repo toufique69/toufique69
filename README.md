@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toufique Hasan</h1>
-<h2 align="center">Research Assistant @ Tampere University, Finland</h2>
+<h3 align="center">Research Assistant @ Tampere University, Finland</h3>
 <h3 align="center">Master's Student of Data Science @ Tampere University, Finland</h3>
 
 - 🔭 Currently working on exploring and implementing RAG applications.
