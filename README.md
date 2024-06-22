@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Toufique Hasan</h1>
 <h3 align="center">Ongoing Master's Student of Data Science at Tampere university, Finland</h3>
 
-- 🔭 I’m currently working on: **Exploring and implementing RAG applications.**
-
-- 🌱 I’m currently learning: **RAG applications and different LLM/AI models**
-
+- 🔭 Currently working on: **Exploring and implementing RAG applications.**
+- 🌱 Currently learning: **RAG applications and different LLM/AI models**
 - 👨‍💻 Personal Website: [https://sites.google.com/view/hasantoufique/](https://sites.google.com/view/hasantoufique/)
-
 - 💬 Ask me about: **Python, Generative AI, ML, NLP**
-
 - 📫 Reach me: **hasan.mdtoufique@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
