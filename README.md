@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Toufique Hasan</h1>
 <h3 align="center">Ongoing Master's Student of Data Science at Tampere university, Finland</h3>
 
-- 🔭 Currently working on: **Exploring and implementing RAG applications.**
-- 🌱 Currently learning: **RAG applications and different LLM/AI models**
+- 🔭 I’m currently working on: **Exploring and implementing RAG applications.**
+- 🌱 I’m currently learning: **RAG applications and different LLM/AI models**
 - 👨‍💻 Personal Website: [https://sites.google.com/view/hasantoufique/](https://sites.google.com/view/hasantoufique/)
 - 💬 Ask me about: **Python, Generative AI, ML, NLP**
 - 📫 Reach me: **hasan.mdtoufique@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[www.linkedin.com/in/toufique-hasan](https://www.linkedin.com/in/toufique-hasan/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/toufique-hasan](https://www.linkedin.com/in/toufique-hasan/)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/toufique-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toufique-hasan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
