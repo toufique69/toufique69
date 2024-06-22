@@ -3,9 +3,9 @@
 
 - 🔭 Currently working on exploring and implementing RAG applications.
 - 🌱 Learning about applications of LLMs/ML models.
-- 👨‍💻 Personal Website: [https://sites.google.com/view/hasantoufique/](https://sites.google.com/view/hasantoufique/)
 - 💬 Ask me about Python, Generative AI, ML, NLP.
-- 📫 How to reach me: hasan.mdtoufique@gmail.com
+- 👨‍💻 Personal Website: [https://sites.google.com/view/hasantoufique/](https://sites.google.com/view/hasantoufique/)
+- 📫 Eeach me: hasan.mdtoufique@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
