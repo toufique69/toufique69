@@ -21,7 +21,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=anaconda,bash,pycharm,docker,vscode,idea,matlab,git,github,gitlab,sublime" />
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,r,html,css,mongodb,mysql,sqlserver,django,opencv,pytorch,regex,sklearn,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,r,html,css,mongodb,mysql,django,opencv,pytorch,regex,sklearn,tensorflow" /><br>
 </div>
 
 <h3 align="center">Thank you for visiting my portfolio!</h3>
