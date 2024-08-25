@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Toufique+Hasan!;" />
 </h1>
 
-<h3 align="center">Research Assistant at Tampere University, Finland</h3>
+<h2 align="center">Research Assistant at Tampere University, Finland</h2>
 
 - 🔭 Currently working on exploring and implementing RAG applications.
 - 🌱 Learning about applications of LLMs/ML models.
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
