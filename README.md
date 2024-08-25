@@ -4,12 +4,12 @@
 
 <h2 align="center">Research Assistant at Tampere University, Finland</h2>
 
-<div align="center">
+
 - 🔭 Currently working on exploring and implementing RAG applications.    
 - 🌱 Learning about applications of LLMs/ML models.
 - 💬 Ask me about Python, Generative AI, ML, NLP.
 
-</div>
+
  
 <div align="center"> 
   <a href="mailto:hasan.mdtoufique@gmail.com">
