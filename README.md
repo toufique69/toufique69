@@ -20,8 +20,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,c,C++,java,r,mongodb,mysql,sqlserver,django" /><br>
+    <img src="https://skillicons.dev/icons?i=anaconda,bash,pycharm,docker,vscode,idea,matlab,git,github,gitlab,sublime" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,r,html,css,mongodb,mysql,sqlserver,django,opencv,pytorch,regex,sklearn,tensorflow" /><br>
 </div>
 
 <h3 align="center">Thank you for visiting my portfolio!</h3>
