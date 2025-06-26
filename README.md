@@ -18,6 +18,11 @@
   </a>
 </div>
 
+<h3 align="center">🔒 Most updated repositories are private</h3>
+<p align="center">
+  For ongoing research and experimental purposes, many of my latest projects, including RAG systems and AI Agent applications, are kept private.
+</p>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
