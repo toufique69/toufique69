@@ -4,7 +4,7 @@
 
 <h2 align="center">Doctoral Researcher at Tampere University, Finland</h2>
 
-- 🔭 Currently working on exploring and implementing RAG Applications, Generative AI and AI Agents.    
+- 🔭 Currently working on exploring and implementing Agentic RAG Applications, Generative AI and AI Agents.    
 - 🌱 Learning about applications of LLMs/ML models and AI Agents.
 - 💬 Ask me about Python, LLMs, Generative AI, ML, NLP, RAG.
 - 📫 Reach me: hasan.mdtoufique@gmail.com
